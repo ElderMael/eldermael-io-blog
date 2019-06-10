@@ -17,7 +17,7 @@ module.exports = {
     twitter: 'eldermael',
     medium: '@eldermael',
     facebook: '',
-    github: '',
+    github: 'ElderMael',
     linkedin: '',
     instagram: '',
   },
