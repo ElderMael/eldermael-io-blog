@@ -11,7 +11,7 @@ module.exports = {
   author: 'Miguel Enriquez',
   githubUrl: 'https://github.com/',
   // replace this by the url where your website will be published
-  siteUrl: 'http://localhost:8000',
+  siteUrl: 'https://github.com/ElderMael/eldermael-io-blog.git',
   social: {
     // leave the social media you do not want to appear as empty strings
     twitter: 'eldermael',
