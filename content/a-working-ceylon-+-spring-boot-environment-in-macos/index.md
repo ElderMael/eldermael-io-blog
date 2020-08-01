@@ -21,7 +21,7 @@ Now, many things change between Linux and macOS but I still had a lot of things 
 
 By recommendation I started downloading [iTerm2](https://iterm2.com/). The installation is very straightforward: click in the download button to get the zip file, then double click it in your Finder to extract the content, a single .app file (that is a “Package bundle”) and execute it.
 
-![](./asset-1.png)
+![](content/a-working-ceylon-+-spring-boot-environment-in-macos/asset-1.png)
 
 One good thing that I found from iTerm2 is the so called “Unyxness” i.e. it has a lot of shortcuts to avoid using my mouse while in the console. I also enjoyed the [Material Design](https://material.google.com/) theme that matches my other application themes (I will talk about those later).
 
